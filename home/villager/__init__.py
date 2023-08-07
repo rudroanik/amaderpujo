@@ -1,0 +1,2 @@
+class Villagers:
+    pass
